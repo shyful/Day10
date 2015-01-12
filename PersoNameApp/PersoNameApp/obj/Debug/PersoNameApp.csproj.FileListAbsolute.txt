@@ -1,0 +1,2 @@
+E:\ASP.Net\23Dec\PersoNameApp\PersoNameApp\bin\Debug\PersoNameApp.exe.config
+C:\Users\Shyful\Desktop\24 Dec\PersoNameApp\PersoNameApp\bin\Debug\PersoNameApp.exe.config

@@ -1,0 +1,6 @@
+E:\ASP.Net\23Dec\CircleDimensionsApp\CircleDimensionsApp\bin\Debug\CircleDimensionsApp.exe.config
+E:\ASP.Net\23Dec\CircleDimensionsApp\CircleDimensionsApp\bin\Debug\CircleDimensionsApp.exe
+E:\ASP.Net\23Dec\CircleDimensionsApp\CircleDimensionsApp\bin\Debug\CircleDimensionsApp.pdb
+E:\ASP.Net\23Dec\CircleDimensionsApp\CircleDimensionsApp\obj\Debug\CircleDimensionsApp.csprojResolveAssemblyReference.cache
+E:\ASP.Net\23Dec\CircleDimensionsApp\CircleDimensionsApp\obj\Debug\CircleDimensionsApp.exe
+E:\ASP.Net\23Dec\CircleDimensionsApp\CircleDimensionsApp\obj\Debug\CircleDimensionsApp.pdb
